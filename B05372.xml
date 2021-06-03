@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh, the twelfth day of July, one thousand six hundred and sixty five. Forasmuch as the sickness and plague in the City of London, suburbs thereof, and places near adjacent thereto, doth daily increase and break out in several towns and villages of the kingdom of England ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05372</idno><idno type="EEBO-CITATION">52612263</idno>
+  <idno type="VID">179567</idno>
+  <idno type="EEBO-PROQUEST">2240875166</idno>
+  
+            <idno type="STC">Wing S1500</idno>
+            <idno type="STC">ESTC R206039</idno>
+            <idno type="OCLC">52612263</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179567)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh, the twelfth day of July, one thousand six hundred and sixty five. Forasmuch as the sickness and plague in the City of London, suburbs thereof, and places near adjacent thereto, doth daily increase and break out in several towns and villages of the kingdom of England ...</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Printed in black letter.</note>
+                  <note>Signed at end: Pet. Wedderburne, Cl. Sti. Concilii.</note>
+                  <note>In ms. under title: "Anent the pestilence."</note>
+                  <note>Halts trade with London and other infected places in England until 1 Nov. 1665.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  Prevention --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Plague --  England --  London --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179567:1"/>
+            <pb facs="tcp:179567:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>
+               <add>Anent the pestilence</add>
+            </head>
+            <opener>
+               <dateline>AT EDINBURGH, <date>The twelfth day of <hi>July,</hi> one thousand six hundred and sixty five.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the Sickness and Plague in the City of <hi>London,</hi> Suburbs thereof, and places near adjacent thereto, doth daily increase and break out in several Towns and Villages of the Kingdom of <hi>England;</hi> So that there is great hazard in continuing to Trade and have Commerce with the said City of <hi>London</hi> and places thereabout, and other Towns of the said Kingdom, which are, or hereafter shall be known to be infected: Therefore the Lords of His <hi>Majesties</hi> Privy Council, tendering the good and welfare of the Subjects of this Kingdom, and for preventing the great danger and mischief which might ensue, upon the continuance of Trade with any of the foresaids Towns or Places already infected, or which shall be suspected thereof; have prohibited and discharged, Likeas, in His <hi>Majesties</hi> Name and Authority, they prohibit and discharge all Trade and Commerce betwixt this Kingdom and the Merchants and Inhabitants thereof, and the foresaid City of <hi>London,</hi> Suburbs and Places thereabouts, and all other Towns, Villages and Places of the said Kingdom of <hi>England,</hi> which are, or hereafter shall be infected, or suspected to be infected during this restraint and prohibition, and that by importing or exporting in any Vessels by Sea, or by sending or bringing Goods or Commodities by Packs, or any other manner of carriage by Land, untill the first day of <hi>November</hi> next to come, and ay and while this present restraint and prohibition be taken off. And that after publication hereof, no Merchant, Seaman or other person, presume to load any Goods or Merchandize in any Ship or Vessel, either belonging to the Inhabitants of this Kingdom or Strangers; or fraught any Ship or send the same to <hi>London,</hi> or any Port or Place infected, or suspected as said is, or any Harbours or Roads thereto belong<g ref="char:EOLhyphen"/>ing. As also, that all Ships, Merchants and Seamen that are now abroad, and have loadened their Ships in any of the places foresaids, or any other Port or Town of the Kingdom of <hi>England,</hi> and are on their way hither with their Ships and Goods, shall stay aboard their saids Ships and Vessels in the Roads and Stations of any Port or Town within this Kingdom, for which they have their Cocquets: and that they offer not to put ashoar any of their Company, Passengers, Goods or Commodities, untill first they acquaint the Magistrates of the Burghs, Barrons or Heritors of the places where they intend to land, from what Town or place they came, belonging to the Kingdom of <hi>England;</hi> that in case the said Town or Place shall be known to be infected or suspected thereof, that they obey such orders as shall be given them for their tryal, in bringing ashoar their Goods to such houses and places, as shall be designed for them; and that they handle the saids Goods and Comm<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ties daily by the space of fourty dayes and thereafter, as they have allowance given them to converse as free men, and vend their Commodities. And unlike that all persons, who after publication hereof, shall come from <hi>England</hi> into this Kingdom, or bring any Goods or Commodities by Packs or other carriage by Land, shall stay upon the Borders and converse with no person, untill they first acquaint the Sheriff, Iustices of Peace, Magistrates of Burghs, or such persons as shall be appointed within the Shires, Burghs, Towns, or other places where they shall happen to come, from what Town or place of <hi>England</hi> they are come; and that they bring sufficient Passes and Testimonials with them, under the hands and seals of the Mayor and Aldermen of the Cities and Burghs, or two of the Iustices of Peace of the Counties, that the Towns, Villages and Places from which they come or bring their Commodities, are free of all suspicion of the Plague, and that the saids Passes bear the names of the Persons, number of the Packs or Carriages, and that they deliver the same Passes to such Sheriffs, Iustices of Peace, or Magistrates of places where they shall come and receive Testificats thereof from the said Sheriff, Iustices of Peace of the Shire, or Ma<g ref="char:EOLhyphen"/>gistrates of Burghs bearing the receit thereof, and that they may freely go about their affairs: Otherwayes, that they obey such orders as shall be given them for their tryal in manner foresaid; with certification, that if any person whatsover shall contraveen, and not give exact obedience, they shall be punished with the loss of their Lives, Ships, Goods, Packs and Commodities brought by them, either by Sea or Land, without mer<g ref="char:EOLhyphen"/>cy. And if any of the saids Packs or Goods, shall come, and be privatly conveyed, without being tryed, as said is, any person whatsoever the discoverers thereof, and seizers thereupon, shall carry them to those impowered for tryal, and shall have for their pains the one half of the saids Goods, after it is found that the same may be freely vended. And to the effect this Act may receive due execution, according to the intent there<g ref="char:EOLhyphen"/>of, the saids Lords, in Name and Authority foresaid, prohibit and discharge all Seamen, Pilots, Fisher<g ref="char:EOLhyphen"/>men, and all other persons whatsover, to go aboard of any Ship or Vessel, that shall come from beyond Sea toward any Town, Port, Harbour or Road of this Kingdom, without a warrand in writ, subscribed by the Magistrates of the Burghs, Barrons and Heritors of the bounds and places to which they belong; and that under the pain of forfeiture of their Boats, Vessels and other Movables, and abiding the tryal of fourty dayes, and thereafter to be fined and imprisoned, as the quality of their offence shall deserve. And siklike, commands and charges the Sheriffs of all Shires, Stewarts of Stewartries, Bailies of Regalities, Magistrates of Burghs, Iustices of the Peace, Barrons, Heritors, and all others whom these may con<g ref="char:EOLhyphen"/>cern, to take exact tryal of every Ship or Vessel that shall come from beyond Sea within their respective Bounds and Liberties, Roads or Stations thereto belonging; As also of all Persons, Goods and other Com<g ref="char:EOLhyphen"/>modities brought in Packs, or by any other carriage by Land, from any Town or Place of the foresaid Kingdom, within their respective bounds; and finding that they come from any places suspected, That they immediatly appoint Guards, upon the charges and expences of the Merchants, Skippers and Owners of the Ships and Goods, brought either by Sea or Land, untill such time as houses be provided for them and their Goods; and that they constantly keep Guard, untill they abide their tryal, during the space of fourty dayes and further, till they have liberty granted to them, as said is; that none of them come out of the saids places and houses, or disperse any of their Goods or Commodities; and that immediatly after Pro<g ref="char:EOLhyphen"/>clamation hereof, an the saids Sheriffs, Iustices of Peace, and Magistrates of Burghs of this Kingdom, within their respective bounds, meet and conveen, and give order for such Guards, Watches, Houses and Places, as they shall think most convenient for putting of this Act in execution: And for doing every other thing that shall be necessar for that effect, with certification, if they failʒie, they shall be punished in their Persons and Goods, to the terror of others. And ordains these presents to be printed, and published at the Mercat Cross of <hi>Edinburgh,</hi> Peir and Shoar of <hi>Leith,</hi> and at the Mercat Crosses of the several Burghs of this King<g ref="char:EOLhyphen"/>dom, and other places needfull, that none pretend ignorance.</p>
+            <closer>
+               <signed>Pet. Wedderburne, Cl. S<seg rend="sup">ti</seg> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the King's most Excellent MAjESTY, 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
